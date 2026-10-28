@@ -1,0 +1,21 @@
+id,customer,city,status,total
+1001,Avery Chen,Austin,shipped,128.50
+1002,Jordan Ellis,Denver,processing,74.00
+1003,Sam Rivera,Seattle,delivered,212.90
+1004,Taylor Brooks,Austin,processing,56.25
+1005,Morgan Patel,Chicago,shipped,340.00
+1006,Casey Nguyen,Austin,shipped,189.99
+1007,Riley Morgan,Portland,delivered,95.00
+1008,Jamie Carter,Denver,cancelled,42.50
+1009,Alex Kim,Seattle,shipped,117.00
+1010,Drew Foster,Chicago,processing,265.40
+1011,Quinn Bailey,Austin,delivered,89.00
+1012,Reese Diaz,Portland,shipped,420.00
+1013,Rowan Price,Denver,delivered,138.75
+1014,Emerson Lane,Seattle,processing,63.00
+1015,Finley James,Chicago,shipped,102.25
+1016,Harper Wells,Austin,cancelled,155.00
+1017,Logan Reed,Portland,processing,310.00
+1018,Parker Scott,Denver,shipped,81.50
+1019,Blake Turner,Seattle,delivered,176.00
+1020,Skyler Adams,Chicago,cancelled,29.99
